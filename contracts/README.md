@@ -6,4 +6,4 @@ StandardToken.sol: standard ERC20 functionality
 
 RPMSafe.sol: Lockup contract, presently without final addresses
 
-I Want To Build This Fucking Token!!!
+I Want To Build This Fucking Token!!! I have to do!!!
